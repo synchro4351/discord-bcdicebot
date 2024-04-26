@@ -1,0 +1,12 @@
+{
+  "name": "discord-bcdicebot",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html>\r <html>\r <head>\r <meta charset=\"UTF-8\">\r <meta property=\"og:title\" content=\"discord-bcdicebot\" />\r <meta property=\"og:type\" content=\"website\" />\r <meta property=\"og:image\" content=\"https://shunshun94.github.io/discord-bcdicebot/ogp.png\" />\r <meta property=\"og:site_name\" content=\"https://shunshun94.github.io/discord-bcdicebot/index.html\" />\r <meta property=\"og:description\" content=\"Discord 上で多数のシステムに対応しているダイスボット BCDice を振れるようにする Bot\" />\r <meta name=\"twitter:card\" content=\"summary_large_image\" />\r <meta name=\"twitter:site\" content=\"@Shunshun94\" />\r <meta name=\"twitter:domain\" content=\"shunshun94.github.io\" />\r <meta name=\"twitter:title\" content=\"discord-bcdicebot\" />\r <meta name=\"twitter:description\" content=\"Discord 上で多数のシステムに対応しているダイスボット BCDice を振れるようにする Bot\" />\r <meta name=\"twitter:image\" content=\"https://shunshun94.github.io/discord-bcdicebot/ogp.png\" />\r <title>discord-bcdicebot</title>\r \t<style type=\"text/css\">",
+  "main": "index.js",
+  "scripts": {
+    "start": "sh start.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
